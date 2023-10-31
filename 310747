@@ -1,0 +1,69 @@
+<html>
+    <h1><font color="gold">
+        FACTS ABOUT EMINEM</font> </h1>
+    <hr>
+    <body bgcolor="000000"background="Internal storage/ANWhatsApp/Media/WallPaper/wallpaper.jpg">
+    <font color="ffffff">
+    <h2>Short Biography</h2>
+        <b><u>Marshal Bruce Mathers II</u></b> 
+        <br>
+        populary known by his stage name <b><font color="red">EMINEM</font></b>
+        <br>
+        is an American rapper brought into the game by <b><font color="00ff00">DR.DRE'</font></b>
+        after leaving out his one and only daughter <b><font color="pink">HAILEE JADE</font></b>
+        <br>
+        To those who ever listened to his song; 
+        <br>
+        <A Href="content://ru.zdevs.zarchiver.external/storage/emulated/0/VidMate/download/Eminem%20Mockingbird.mp4"><b>MOCKING BIRD</b></A>
+        <p>
+        <br>
+        If anyone checked out the mockingbird song <a href="/storage/emulated/0/Download/Eminem.pdf">lyrics</a> then u gotta be understanding the story.
+        <br>
+        Eminem is one of the greatest rapper of all time and he's the second fastest rapper in the whole world ranked after <b>TWISTA</b> <u>(the mista tung twista)</u> and also before <b>BUSTER RYMES</b> who is the 3<sup>rd</sup> fastest rapper...
+        </p>
+        <br>
+         This guy z gat some song also about him self 
+         <br>
+         so i gat <b><font color="00ff00">Fall</font></b>
+         <br>
+         u can search 'fall'in the table below and click <b><u>search</u></b>
+        <br>
+        <input><button><A Href="/storage/emulated/0/jams/audio/eminem fall.mp4">search</A></button>
+        <p>
+        <br> 
+        <b>Here a list of some of Eminems jams</b>
+        <select name="TOP SONGS">
+            <option>Godzilla</option>
+            <option>RapGod</option>
+            <option>Gnat</option>
+            <option>Ringer</option>
+            <option>Greatest</option>
+         </select>
+            <br>
+            <b>1<sup>st</sup>.</b><A Href="/storage/emulated/0/jams/audio/eminem greatest.mp3">Greatest</A>
+            <br>
+            <b>2<sup>nd</sup>.</b><A Href="/storage/emulated/0/Muso Player/download/eminem rap god.mp3">Rap God</A>
+            <br>
+            <b>3<sup>rd</sup>.</b><A Href=="/storage/emulated/0/Muso Player/download/eminem ringer.mp3">The Ringer</A>
+            <br>
+            <b>4<sup>th</sup>.</b><A Href="/storage/emulated/0/VidMate/download/Gnat.mp3">Gnat</A>
+            <br>
+            <b>5<sup>th</sup>.</b><A Href="/storage/emulated/0/jams/audio/godzilla eminem ft juice wrld.mp3">Godzilla</A>
+            </p>
+            <b><font color="00ffff">Vote your best song here...according to the above songs</font></b>
+            <br>
+            <input type="radio"name="gender"value="Gnat">Gnat
+            <br>
+            <input type="radio"name="gender"value="Godzilla">Godzilla
+            <br>
+            <input type="radio"name="gender"value="Rap God">Rap God
+            <br>
+            <input type="radio"name="gender"value="The Ringer">The Ringer
+           <br>
+           <p><b><i><font color="ff00ff">WEB DESIGNED BY HBK</font></i></b></p>
+           <a href="proto.html"><button><b>BACK</b></button></a>
+    
+        
+    </font>
+    </body>
+    </html>
